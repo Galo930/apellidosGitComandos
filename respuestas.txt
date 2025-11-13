@@ -4,3 +4,11 @@ Comandos usados:
 3. git commit -m "Añadiendo respuestaas.txt"
 4. git add .
 5. git commit -m "Añadiendo Cambios a respuestas.txt"
+6. git push
+7. git branch primeras
+8. mkdir examen
+9. cd examen 
+10. mkdir uno
+11. mkdir dos
+12. mkdir tres
+13.
