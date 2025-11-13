@@ -14,3 +14,5 @@ Comandos usados:
 13. git add .
 14. git commit -m "Añadiendo carpetas"
 15. touch uno/nombre.txt
+16. cd dos
+17. cp ../uno/nombre.txt .
