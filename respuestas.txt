@@ -18,3 +18,9 @@ Comandos usados:
 17. cp ../uno/nombre.txt .
 18. git merge primeras
 19. git push
+20. git fetch
+21. mkdir dos/dosUna
+22. cd dos/dosUna
+23. touch ../../edad.txt
+24. rm ../../tres/nombre.txt
+mv ~/Desktop/Florida/DAW-1/SistemasInformaticos/apellidosGitComandos/examen/edad.txt ~/Desktop/Florida/DAW-1/SistemasInformaticos/apellidosGitComandos/examen/dos/dosUna/edad2.txt
