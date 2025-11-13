@@ -23,4 +23,5 @@ Comandos usados:
 22. cd dos/dosUna
 23. touch ../../edad.txt
 24. rm ../../tres/nombre.txt
-mv ~/Desktop/Florida/DAW-1/SistemasInformaticos/apellidosGitComandos/examen/edad.txt ~/Desktop/Florida/DAW-1/SistemasInformaticos/apellidosGitComandos/examen/dos/dosUna/edad2.txt
+25. mv ~/Desktop/Florida/DAW-1/SistemasInformaticos/apellidosGitComandos/examen/edad.txt ~/Desktop/Florida/DAW-1/SistemasInformaticos/apellidosGitComandos/examen/dos/dosUna/edad2.txt
+26. cd ../../..
