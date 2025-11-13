@@ -11,4 +11,6 @@ Comandos usados:
 10. mkdir uno
 11. mkdir dos
 12. mkdir tres
-13.
+13. git add .
+14. git commit -m "Añadiendo carpetas"
+15. touch uno/nombre.txt
