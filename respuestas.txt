@@ -1,0 +1,6 @@
+Comandos usados:
+1. git clone https://github.com/Galo930/apellidosGitComandos.git
+2. git add .
+3. git commit -m "Añadiendo respuestaas.txt"
+4. git add .
+5. git commit -m "Añadiendo Cambios a respuestas.txt"
